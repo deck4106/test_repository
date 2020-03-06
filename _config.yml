@@ -12,7 +12,7 @@ url: https://deck4106.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /test_repository-gh
 # location of code, the full url to your github repository
-source-code: https://github.com/deck4106/test_repository-gh
+source-code: https://github.com/deck4106/test_repository
 
 ##########
 # SITE SETTINGS
