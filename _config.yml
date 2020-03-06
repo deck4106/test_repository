@@ -10,7 +10,7 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://deck4106.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /test_repository-gh
+baseurl: /test_repository
 # location of code, the full url to your github repository
 source-code: https://github.com/deck4106/test_repository
 
